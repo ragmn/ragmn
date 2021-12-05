@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raghavendra
 - 👀 I’m interested in web development, photography, travel & yoga
-- 🌱 I’m currently learning many things mainly MS stack
+- 🌱 I’m currently learning many things mainly on MS stack
 - 📫 Reach me on ragavendra.mn@gmail.com
 
 <!---
